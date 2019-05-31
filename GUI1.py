@@ -13,7 +13,7 @@ bt1 = tk.Button(window,text='Save', command=OnclickSave)
 
 textbox.pack()
 bt1.pack()
-print('Done')
+print('Done.\nCompleted')
 window.mainloop()
 
 for num in [1,2,3]:
